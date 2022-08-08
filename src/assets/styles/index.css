@@ -1,0 +1,15 @@
+/* Seus estilos globais vão aqui */
+nav {
+    margin-bottom: 40px;
+}
+
+
+.delete-room-button {
+    cursor: pointer;
+}
+
+.review-item {
+    padding: 10px;
+    border: dotted 1px #333;
+    margin-bottom: 20px;
+}
